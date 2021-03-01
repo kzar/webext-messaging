@@ -1,0 +1,17 @@
+{
+  "extends": ["eslint-config-eyeo"],
+  "root": true,
+  "env": {
+    "browser": true,
+    "webextensions": true
+  },
+  "globals": {
+    "global": true
+  },
+  "parserOptions": {
+    "sourceType": "module"
+  },
+  "rules": {
+    "no-prototype-builtins": "off"
+  }
+}
