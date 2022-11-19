@@ -12,6 +12,7 @@
     "sourceType": "module"
   },
   "rules": {
-    "no-prototype-builtins": "off"
+    "no-prototype-builtins": "off",
+    "no-undefined": "off"
   }
 }

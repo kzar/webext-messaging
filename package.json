@@ -9,8 +9,8 @@
   },
   "license": "GPL-3.0",
   "devDependencies": {
-    "eslint": "7.16.0",
-    "eslint-config-eyeo": "2.1.1"
+    "eslint": "8.28.0",
+    "eslint-config-eyeo": "3.2.0"
   },
   "scripts": {
     "lint": "eslint *.js"
